@@ -11,7 +11,7 @@ one country — is the whole framework. "Everything" here means *at every
 scale*, not every phenomenon explained. ISTOE is a diagnostic framework, a
 method for root-cause analysis. Its test is usefulness, not completeness.
 
-This repo is the staging home for the ISTOE documentation.
+This repo is the public home for the ISTOE documentation.
 
 ---
 
@@ -225,6 +225,7 @@ raise the floor, the baseline of human existence.
 
 ## About this repo
 
-This repo holds the ISTOE documentation, staged here before any public
-release. The framework is developed in the open, in Karl Burniston's own
+This repo holds the ISTOE documentation. **v1.0-PUBLIC is live** — the
+public white paper is in [docs/istoe-whitepaper-v1-public.pdf](docs/istoe-whitepaper-v1-public.pdf).
+The framework is developed in the open, in Karl Burniston's own
 terms, and refined against its own failure modes as they are found.
