@@ -1,6 +1,6 @@
 # ISTOE — Incentive Structures Theory of Everything
 
-**A universal generalization engine.**
+**A universal root cause analysis engine.**
 
 ISTOE is a way of finding the real cause of a problem. Instead of asking
 "what's wrong with the people?", it asks a different question: **"what
